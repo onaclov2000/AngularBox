@@ -1,0 +1,5 @@
+<img src="{{avatar}}" />
+<p>{{tweet}}</p>
+<p>{{timestamp}}</p>
+<p>{{favorites}}</p>
+<p>{{retweets}}</p>
